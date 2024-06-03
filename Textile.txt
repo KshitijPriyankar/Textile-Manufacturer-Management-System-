@@ -1,0 +1,17 @@
+ Id | ModeL | Store Name | Price
+
+  1,  Mufti,  Mufti,  450
+  2,  Allen Solly,  Allen Solly,  300
+  3,  Monte Carlo,  Monte Carlo,  200
+  4,  Cantabil,  Cantabil,  420
+  5,  Peter England,  Peter England,  520
+  6,  John Miller,  John Miller,  620
+  7,  Bare Denim,  Bare Denim,  720
+  8,  Van Heusen,  Van Heusen,  820
+  9,  John Players,  John Players,  920
+  10,   U.S. Polo ASSN,   U.S. Polo ASSN,  1020
+  11,  Raymond,  Raymond,  1120
+  12,  Giovani,  Giovani,  1220
+  13,  Spykar,  Spykar,  1320
+  14,  Arrow,  Arrow,  1420
+  15,  LP Jeans,  LP Jeans,  1520
